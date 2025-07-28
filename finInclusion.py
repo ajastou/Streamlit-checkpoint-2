@@ -72,7 +72,7 @@ if st.button("Prédire banque"):
     else:
         st.success(" ⚠️ La personne n'est pas susceptible de détenir un compte bancaire.")
 
-streamlit run finInclusion.py
+
 
 
 
